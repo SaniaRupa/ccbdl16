@@ -1,0 +1,84 @@
+/* Common css */
+body{
+    font-family: "Montserrat", sans-serif;
+}
+h1{
+  font-size: 32px;
+  font-weight: 200;
+  line-height: 38px;
+}
+h3{
+  font-size: 22px;
+  font-weight: 200;
+  line-height: 28px;
+}
+p{
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 24px;
+}
+.collapse ul li{
+  padding-left: 12px;
+}
+ul li{
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 50px;
+  padding-left: 40px;
+}
+.btn{
+  font-family: system-ui, -apple-system, "Segoe UI";
+}
+/* shape-divider-bottom */
+.custom-shape-divider-bottom-1754562380 {
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+.custom-shape-divider-bottom-1754562380 svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 45px;
+}
+.custom-shape-divider-bottom-1754562380 .shape-fill {
+    fill: #FFFFFF;
+}
+/* shape-divider-top */
+.custom-shape-divider-top-1754562089 {
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-top-1754562089 svg {
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 45px;
+}
+
+.custom-shape-divider-top-1754562089 .shape-fill {
+    fill: #FFFFFF;
+}
+/* all sections css */
+.img .w-3{
+  padding: 10px 10px 0 10px;
+  width: 400px;
+}
+.gradient {
+  background: linear-gradient(135deg, #0061f2 0%, #6900c7 100%);
+}
+.icon{
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 100%;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+  background: linear-gradient(135deg, #0061f2 0%, #6900c7 100%);
+}
+.service h2, p,
+.contact h2{
+  font-weight: 200;
+}
+.gallery .img-fl{
+  width: 400px;
+}
